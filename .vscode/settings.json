@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "ultrasonic.h": "c",
+        "led.h": "c",
+        "ifxccu6_reg.h": "c",
+        "ttt": "c",
+        "buzzer.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
